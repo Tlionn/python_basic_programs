@@ -1,1 +1,1 @@
-# python_basic_programs
+This repo contains (and will contain) all the basic Python programs that I work on (and will work on)
